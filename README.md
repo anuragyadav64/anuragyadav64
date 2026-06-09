@@ -8,19 +8,23 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
-Here are the technologies and tools I work with (Same as industry standards):
+### 🛠️ Languages and Tools
 
-** Programming Languages:**
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+#### 🌐 Programming Languages
+[![My Languages](https://skillicons.dev)](https://skillicons.dev)
 
-**Tools & Ecosystem:**
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+#### 🗄️ Frameworks and Databases
+[![My Frameworks](https://skillicons.dev)](https://skillicons.dev)
+
+#### ⚙️ Tools
+[![My Tools](https://skillicons.dev)](https://skillicons.dev)
 
 ---
 
 ### 📊 GitHub Stats
 ![Anurag's GitHub Stats](https://vercel.app)
+
+---
 
 ### ⚡ Fun Fact
 - I use AI tools like ChatGPT to blueprint, reverse-engineer, and speed up my project development workflows!
