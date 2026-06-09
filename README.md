@@ -9,15 +9,24 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-Here are the technologies and tools I work with:
+Here are the technologies and tools I work with (Same as industry standards):
 
-<!-- Yeh dynamic icons generator hai jo hamesha load hota hai -->
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+**Languages & Frontend:**
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+
+**Tools & Ecosystem:**
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ---
 
 ### 📊 GitHub Stats
 ![Anurag's GitHub Stats](https://vercel.app)
+
+---
+
+### 🐍 Contribution Animation (Like Kushal's Profile)
+<!-- This animation shows a snake eating the contribution grid dots -->
+![Anurag's Contribution Animation](https://jsdelivr.net)
 
 ---
 
