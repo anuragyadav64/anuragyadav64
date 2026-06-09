@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 #### 🌐 Programming Languages
 <p align="left">
