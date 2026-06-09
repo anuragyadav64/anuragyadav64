@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! I'm Anurag Yadav <img src="https://giphy.com" width="30px">
 
-<!--
-**anuragyadav64/anuragyadav64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 **BScIT Graduate** (Passionate about Technology & Software Development)
+- 🚀 Currently upskilling in **Web Development** and **AI Tools**
+- 🤝 Interested in contributing to **Open Source Projects**
+- ✍️ Love turning logic into clean, functional code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+Here are the technologies and tools I work with:
+
+<!-- Yeh dynamic icons generator hai jo hamesha load hota hai -->
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
+![Anurag's GitHub Stats](https://vercel.app)
+
+---
+
+### ⚡ Fun Fact
+- I use AI tools like ChatGPT to blueprint, reverse-engineer, and speed up my project development workflows!
