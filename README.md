@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack & Skills
 Here are the technologies and tools I work with (Same as industry standards):
 
-**Languages & Frontend:**
+** Programming Languages:**
 <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 **Tools & Ecosystem:**
@@ -21,14 +21,6 @@ Here are the technologies and tools I work with (Same as industry standards):
 
 ### 📊 GitHub Stats
 ![Anurag's GitHub Stats](https://vercel.app)
-
----
-
-### 🐍 Contribution Animation (Like Kushal's Profile)
-<!-- This animation shows a snake eating the contribution grid dots -->
-![Anurag's Contribution Animation](https://jsdelivr.net)
-
----
 
 ### ⚡ Fun Fact
 - I use AI tools like ChatGPT to blueprint, reverse-engineer, and speed up my project development workflows!
