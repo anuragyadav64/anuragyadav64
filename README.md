@@ -50,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Anurag's GitHub Stats](https://vercel.app)
 
 ---
