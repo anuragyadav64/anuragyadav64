@@ -10,7 +10,7 @@
 
 ## 🛠️ Languages and Tools
 
-#### 🌐 Programming Languages
+### 🌐 Programming Languages
 <p align="left">
   <img src="https://skillicons.dev" width="45" height="45" alt="C" />&nbsp;
   <img src="https://skillicons.devpp" width="45" height="45" alt="C++" />&nbsp;
@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev" width="45" height="45" alt="Java" />
 </p>
 
-#### 🗄️ Frameworks and Databases
+### 🗄️ Frameworks and Databases
 <p align="left">
   <img src="https://skillicons.dev" width="45" height="45" alt="NodeJS" />&nbsp;
   <img src="https://skillicons.dev" width="45" height="45" alt="Express" />&nbsp;
@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev" width="45" height="45" alt="MongoDB" />
 </p>
 
-#### ⚙️ Tools
+### ⚙️ Tools
 <p align="left">
   <img src="https://skillicons.dev" width="45" height="45" alt="Git" />&nbsp;
   <img src="https://skillicons.devhub" width="45" height="45" alt="GitHub" />&nbsp;
